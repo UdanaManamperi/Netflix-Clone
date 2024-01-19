@@ -1,3 +1,6 @@
+![Website Screenshot](img/clonesite.png)
+
+
 # Netflix Homepage Clone
 
 This is a straightforward project aimed at recreating the design of the Netflix homepage using HTML and CSS.
